@@ -1,0 +1,30 @@
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\bin\Debug\Produtos_11.exe.config
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\bin\Debug\Produtos_11.exe
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\bin\Debug\Produtos_11.pdb
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\obj\Debug\Produtos_11.csprojAssemblyReference.cache
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\obj\Debug\Produtos_11.Properties.Resources.resources
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\obj\Debug\Produtos_11.csproj.GenerateResource.cache
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\obj\Debug\Produtos_11.csproj.CoreCompileInputs.cache
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\obj\Debug\Produtos_11.exe
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\obj\Debug\Produtos_11.pdb
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\obj\Debug\Produtos_11.frmProdutos.resources
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\obj\Debug\Produtos_11.frmMenu.resources
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\bin\Debug\MySql.Data.dll
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\bin\Debug\Google.Protobuf.dll
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\bin\Debug\MySql.Data.xml
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\obj\Debug\Produtos_11.csproj.CopyComplete
+H:\TEP\Terceiro_Trimestre\Produtos_11\Produtos_11\obj\Debug\Produtos_11.frmLogin.resources
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\bin\Debug\Produtos_11.exe.config
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\bin\Debug\Produtos_11.exe
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\bin\Debug\Produtos_11.pdb
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\bin\Debug\Google.Protobuf.dll
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\bin\Debug\MySql.Data.xml
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\obj\Debug\Produtos_11.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\obj\Debug\Produtos_11.frmLogin.resources
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\obj\Debug\Produtos_11.frmMenu.resources
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\obj\Debug\Produtos_11.frmProdutos.resources
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\obj\Debug\Produtos_11.Properties.Resources.resources
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\obj\Debug\Produtos_11.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\obj\Debug\Produtos_11.csproj.CopyComplete
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\obj\Debug\Produtos_11.exe
+C:\Users\Win10\Desktop\Programação - Estudos\Projetos\C#\Produtos_11\Produtos_11\obj\Debug\Produtos_11.pdb
